@@ -35,3 +35,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Find out the real life scenario of any app/page/template/utility.
 - How to use a customer or developer after purchasing our theme.
  
+ ## Deploy site here.
+
+ https://vue-user-app-vuex.netlify.app/
